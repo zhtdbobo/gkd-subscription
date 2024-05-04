@@ -1,7 +1,7 @@
 {
   "name": "@zhtdbobo/gkd-subscription",
   "type": "module",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "main": "./dist/zhtdbobo_gkd.json5",
   "unpkg": "./dist/zhtdbobo_gkd.json5",
   "jsdelivr": "./dist/zhtdbobo_gkd.json5",

@@ -5,11 +5,22 @@ export default defineAppConfig({
   name: '剪映',
   groups: [
     {
+      name: '开屏广告',
       key: 0,
-      name: '导出界面底部广告',
-      desc: '关闭完成导出后的下方广告',
-      activityIds: 'com.vega.export.edit.view.ExportActivity',
+      desc: '点击 跳过',
+      actionMaximum: 1,
+      matchTime: 10000,
+      resetMatch: 'app',
+      quickFind: true,
+      activityIds: [
+        'com.vega.main.MainActivity',
+        'com.vega.export.edit.view.ExportActivity',
+      ],
       rules: [
+        {
+          matches: ['[id="com.lemon.lv:id/home_tool_badge"]'],
+          snapshotUrls: ['https://i.gkd.li/import/15208563'],
+        },
         {
           matches: '@FlattenUIImage + LynxAdComponentView',
           snapshotUrls: 'https://i.gkd.li/import/12911010',

@@ -6,21 +6,21 @@
 
 ## GKD 订阅链接
 
-| Github                                                       | npmmirror                                                    |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Github                                                                                           | npmmirror                                                                      |
+| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
 | [链接](https://raw.githubusercontent.com/zhtdbobo/gkd-subscription/main/dist/zhtdbobo_gkd.json5) | [链接](https://registry.npmmirror.com/@zhtdbobo/gkd-subscription/latest/files) |
 
 ## GKD 订阅仓库
 
-| Github                                               | npmjs                                                        |
-| ---------------------------------------------------- | ------------------------------------------------------------ |
+| Github                                               | npmjs                                                            |
+| ---------------------------------------------------- | ---------------------------------------------------------------- |
 | [链接](https://github.com/zhtdbobo/gkd-subscription) | [链接](https://www.npmjs.com/package/@zhtdbobo/gkd-subscription) |
 
 ## 说明
 
-当前版本: v1
+当前版本: v2
 
-当前订阅文件已适配 611 个 APP, 共有 1372 规则组
+当前订阅文件已适配 614 个 APP, 共有 1377 规则组
 
 查看 [适配 APP 列表](https://github.com/ganlinte/GKD-subscription/blob/main/AppList.md)
 
