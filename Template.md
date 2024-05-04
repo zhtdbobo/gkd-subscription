@@ -22,11 +22,11 @@
 
 当前订阅文件已适配 --APP_SIZE-- 个 APP, 共有 --GROUP_SIZE-- 规则组
 
-查看 [适配 APP 列表](./blob/main/AppList.md)
+查看 [适配 APP 列表](https://github.com/zhtdbobo/gkd-subscription/blob/main/AppList.md)
 
 查看 [第三方订阅规则汇总](https://github.com/Adpro-Team/GKD_THS_List)
 
-如何编写订阅/贡献此项目 -> [CONTRIBUTING.md](./blob/main/CONTRIBUTING.md)
+如何编写订阅/贡献此项目 -> [CONTRIBUTING.md](https://github.com/zhtdbobo/gkd-subscription/blob/main/CONTRIBUTING.md)
 
 ## 致谢
 
