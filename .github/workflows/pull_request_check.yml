@@ -7,7 +7,7 @@ on:
 
 jobs:
   check:
-    if: github.repository == 'gkd-kit/subscription'
+    if: github.repository == 'zhtdbobo/gkd-subscription'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3

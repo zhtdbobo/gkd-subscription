@@ -8,7 +8,7 @@ export default defineAppConfig({
       enable: false,
       name: '权限提示',
       key: -1,
-      desc: '点击 同意并进入',
+      desc: '点 同意并进入',
       actionMaximum: 1,
       matchTime: 10000,
       resetMatch: 'app',
