@@ -6,7 +6,7 @@ import type { RawSubscription } from './types';
 const subsConfig: RawSubscription = {
   id: 0,
   version: 0,
-  name: '默认订阅',
+  name: '博博的GKD订阅',
   author: '博博',
   supportUri: 'https://github.com/zhtdbobo/gkd-subscription',
   updateUrl:
