@@ -20,7 +20,7 @@
 
 当前版本: v2
 
-当前订阅文件已适配 614 个 APP, 共有 1377 规则组
+当前订阅文件已适配 614 个 APP, 共有 1379 规则组
 
 查看 [适配 APP 列表](https://github.com/zhtdbobo/gkd-subscription/blob/main/AppList.md)
 
